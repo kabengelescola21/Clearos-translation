@@ -7,6 +7,6 @@ As by default ClearOS-language folder is located in `/usr/clearos/apps/base/lang
 ## How to contribute?
 If you want to contribute translating ClearOS in a new language, follow these steps:
 1. Fork it (it's obvious ;-))
-2. Create a new folder named by the ISO 639-1 code (i.e. for swahili `sw`, for lingala `ln`...)
+2. Create a new folder named by the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) code (i.e. for swahili `sw`, for lingala `ln`...)
 3. Start translating the `base_lang.php` file
 4. Make a PR (it's obvious, too ;-))
